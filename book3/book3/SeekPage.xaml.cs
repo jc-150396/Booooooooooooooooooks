@@ -12,7 +12,7 @@ namespace book3
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class SeekPage : ContentPage
-    {
+    {　
         public SeekPage()
         {
             InitializeComponent();
