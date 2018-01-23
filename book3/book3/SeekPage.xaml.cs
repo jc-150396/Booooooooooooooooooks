@@ -9,7 +9,7 @@ using Xamarin.Forms.Xaml;
 
 
 namespace book3
-{
+{　
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class SeekPage : ContentPage
     {
