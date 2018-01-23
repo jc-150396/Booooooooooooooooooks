@@ -80,6 +80,7 @@ namespace book3
                     picker3.Items.Add("MOUS・MOT");
                     picker3.Items.Add("パソコン検定");
                     picker3.Items.Add("IT・eコマース");
+
                 }
 
 
