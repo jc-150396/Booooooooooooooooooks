@@ -82,6 +82,7 @@ namespace book3
                     picker3.Items.Add("IT・eコマース");
                 }
 
+
                 if (this.picker2.SelectedIndex == 5)
                 {
                     picker3.Items.Clear();
